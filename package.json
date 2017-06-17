@@ -1,0 +1,15 @@
+{
+  "name": "trip-split",
+  "version": "1.0.0",
+  "description": "A payment splitting app that calculates amounts owed with the leastnumber of payments to resolve",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tulara",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
